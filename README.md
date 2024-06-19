@@ -5,15 +5,27 @@ iPortfolio is fully responsive and looks great on all device screens providing b
 Key Features:
 
 Modern And Creative Design
+
 Resume template included
+
 Built with latest Bootstrap version
+
 Sass/SCSS source files included (pro and membership users only)
+
 PHP/Ajax contact form script (pro version only)
+
 Fully customizable
+
 One pager design
+
 Animation on scroll effects
+
 Smooth Scroll
+
 SEO Optimized
+
 Cross Browser compatible
+
 Easy to customize, clean and commented code
+
 Responsive Layout
