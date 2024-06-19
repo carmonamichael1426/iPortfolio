@@ -5,7 +5,6 @@ iPortfolio is fully responsive and looks great on all device screens providing b
 Key Features:
 
 Modern And Creative Design
-
 Resume template included
 Built with latest Bootstrap version
 Sass/SCSS source files included (pro and membership users only)
